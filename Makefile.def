@@ -1,0 +1,3 @@
+include /Users/gtoth/Tmp_gfortran/SWMF/Makefile.def
+MYDIR=/Users/gtoth/Tmp_gfortran/SWMF/SP/Kota
+COMPONENT=SP
